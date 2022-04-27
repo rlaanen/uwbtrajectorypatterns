@@ -1,0 +1,9 @@
+Number of successful measurements: 3242
+Number of unsuccessful measurements: 249
+Total number of measurements: 3491
+Success rate: 92.87 %
+Failure rate: 7.13 %
+     tag      rate
+0  26651  5.884854
+1  26660  5.889903
+Failure statistics: Part rate of tag 26651: 2 %Part rate of tag 26660: 98 %
