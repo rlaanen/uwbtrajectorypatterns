@@ -1,2 +1,6 @@
-# UWB Trajectory Pattern Mining
-In this repository, we explore the charactristics of the UWB location trajectory data. The data is collected using the Pozyx Creator kit (https://www.pozyx.io/). The entire pipline, including experiment design, data collection, data preprocessing and data analysis is covered in this repository.
+# Automated classification of pre-defined movement patterns: A comparison between GNSS and UWB
+
+In this repository, we exlore the characteristics of both a GNSS and UWB localisation system in correctly classifying pre-defined movement patterns. The automated framework, including experiment design, data collection, data pre-processing and data analyis is covered in this repository. 
+
+Disclaimer: this repository is currently under development. 
+
